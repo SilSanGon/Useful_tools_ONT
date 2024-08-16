@@ -4,3 +4,5 @@ Scripts for easy pre-processing analysis of Nanopore results and complete 16S an
 - tozip.sh -> script to compress fastq files and save space.
 - gztofastq.sh -> script to decompress and concatenate fastq files.
 - 16S_analysis.R -> script to analyse amplicon sequencing results with different approaches and visualisations.
+
+Private repository, for more information please contact me.
